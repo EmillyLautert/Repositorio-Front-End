@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: "Inter", sans-serif;
+}
+.title {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: bold;
+}
+.container {
+    background-color: #1B6073;
+    border-radius: 5px;
+    padding: 20px 40px;
+}
+.card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
