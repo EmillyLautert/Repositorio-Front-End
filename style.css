@@ -15,7 +15,31 @@ body {
     padding: 20px 40px;
 }
 .card {
-    background-color: white;
-    padding: 10px;
+    background-color: #fff;
     border-radius: 5px;
+    padding: 10px;
+}
+.card > img {
+    width: 100%;
+}
+.card .productName {
+    font-size: 14px;
+    font-weight: bold;
+}
+.card .productPrice {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2C6B9E;
+    margin-bottom: 20px;
+}
+.button {
+    background-color: #DB8F51;
+    border-radius: 5px;
+    color: #000;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
 }
