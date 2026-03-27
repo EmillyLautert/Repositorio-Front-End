@@ -6,4 +6,4 @@ for (let i = 1; i < numeros.length; i++) {
         maior = numeros[i];
     }
 }
-console.log(maior);
+console.log("o maior número é: " + maior);
