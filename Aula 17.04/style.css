@@ -1,0 +1,10 @@
+.relogio {
+    border: 1px solid black;
+    font-size: 40px;
+    font-weight: bold;
+    margin-inline: auto;
+    margin-top: 40px;
+    max-width: 200px;
+    padding: 40px;
+    text-align: center;
+}
